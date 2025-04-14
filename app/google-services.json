@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "403787857102",
+    "project_id": "printtoorder-e8a57",
+    "storage_bucket": "printtoorder-e8a57.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403787857102:android:093eaf447dd5a9e064a49f",
+        "android_client_info": {
+          "package_name": "com.example.printtoorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403787857102-7oq9jfjrtapvkf2qe6hudqaa1jr6m26o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.printtoorder",
+            "certificate_hash": "89cb3da59e451144f8a3e07026031ed212286a72"
+          }
+        },
+        {
+          "client_id": "403787857102-0f7gqed91uc6551ctk233khv68it88vs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC33eZqH8Xz1U5dtV9vRC0EAfn1UDgqHBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403787857102-0f7gqed91uc6551ctk233khv68it88vs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

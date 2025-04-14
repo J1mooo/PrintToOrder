@@ -1,3 +1,30 @@
 <resources>
     <string name="app_name">PrintToOrder</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="password_again">Password again</string>
+    <string name="cancel">Cancel</string>
+    <string name="login_with_google">Login with Google</string>
+    <string name="email">Email</string>
+    <string name="add_to_cart">Add to cart!</string>
+    <string name="item_title_placeholder">Item title placeholder</string>
+    <string name="item_description_placeholder">Item description placeholder</string>
+    <string name="logout">Logout</string>
+
+
+    <string-array name="item_names">
+        <item>A2 kép</item>
+        <item>A3 kép</item>
+        <item>A4 kép</item>
+        <item>A5 kép</item>
+    </string-array>
+
+    <string-array name="item_descriptions">
+        <item>A2 kép szépen nyomtatva</item>
+        <item>A3 kép szépen nyomtatva</item>
+        <item>A4 kép szépen nyomtatva</item>
+        <item>A5 kép szépen nyomtatva</item>
+    </string-array>
 </resources>
